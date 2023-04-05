@@ -1,0 +1,34 @@
+{
+    "name": "Abortion Access",
+    "description": "In recent years, abortion access across the United States has declined with the overturning of Roe v. Wade. It is now on a state-by-state basis to determine the legality of getting an abortion.",
+    "source": {
+      "name": "Abortion Finder",
+      "title": "State-by-State Guides to Abortion",
+      "date": "April 5, 2023",
+      "link": "https://www.abortionfinder.org/abortion-guides-by-state"
+    },
+    "unspecifiedMessage": "No Data/Not Covered",
+    "groups": [
+      {
+        "name": "Total Ban on Abortion",
+        "color": "#f6cfbd",
+        "states": ["AL", "AR", "ID", "KY", "LA", "MS", "MO", "OK", "SD", "TN", "TX", "WV"]
+      },
+      {
+        "name": "Restrictions on Abortion Access",
+        "color": "#fce391",
+        "states": ["AZ", "FL", "GA", "NC", "UT"]
+      },
+      {
+        "name": "Abortion Laws Subject to Change",
+        "color": "#b2c8db",
+        "states": ["IN", "IA", "ND", "OH", "SC", "WI", "WY"]
+      },
+      {
+        "name": "Abortion Legal",
+        "color": "#b2dbb3",
+        "states": ["AK", "CA", "CO", "CT", "DE", "HI", "IL", "KS", "ME", "MD", "MA", "MI", "MN", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "OR", "PA", "RI", "VT", "VA", "WA", "DC"]
+      }
+    ]
+  }
+  
